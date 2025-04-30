@@ -1,3 +1,18 @@
-# Lambda Expressions in Java
+# Software Engineer Projects
 
-This project demonstrates the use of lambda expressions in Java to simplify functional programming, especially when working with functional interfaces.
+This repository contains a collection of practice and learning projects related to software engineering, with a focus on Java, algorithms, and functional programming.
+
+## 📁 Projects
+
+- **Lambda Expressions** – A basic Java project demonstrating the use of lambda expressions and functional interfaces.
+
+## 💡 Purpose
+
+These projects were built to strengthen my programming skills and explore core software engineering concepts.
+
+## 🛠️ Technologies
+
+- Java
+- Git & GitHub
+
+---
