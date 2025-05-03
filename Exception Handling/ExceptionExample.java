@@ -23,6 +23,22 @@ public class ExceptionExample {
             System.out.println("Error from method getInt()!!");
         }
 
+
+        // Example 3 -> Using two catch statements
+        try {
+
+            int number2 = Integer.parseInt("Word");
+
+        } catch (NumberFormatException | NullPointerException e) {
+
+            System.out.println("Error from 'number2'");
+
+        }
+
+
+        // Example 4 -> Using 'finally'
+        
+
     }
 
     private static void getInt() {
