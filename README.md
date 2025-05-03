@@ -5,7 +5,7 @@ This repository contains a collection of practice and learning projects related 
 ## 📁 Projects
 
 - **Lambda Expressions** – A basic Java project demonstrating the use of lambda expressions and functional interfaces.
-- **Exeptions Handling** – A Java project using try-catch blocks to improve its functionality.
+- **Exeption Handling** – A Java project using try-catch blocks to improve its functionality.
 
 ## 💡 Purpose
 
