@@ -6,6 +6,8 @@ This repository contains a collection of practice and learning projects related 
 
 - **Lambda Expressions** – A basic Java project demonstrating the use of lambda expressions and functional interfaces.
 - **Exeption Handling** – A Java project using try-catch blocks to improve its functionality.
+- **Encapsulation** – A simple Java example showcasing the use of private fields and public getters/setters to protect data.
+- **Inheritance** – A Java project demonstrating class inheritance, method overriding, and code reuse through superclass-subclass relationships.
 
 ## 💡 Purpose
 
