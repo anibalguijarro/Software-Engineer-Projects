@@ -9,7 +9,7 @@ This repository contains a collection of practice and learning projects related 
 - **Encapsulation** – A simple Java example showcasing the use of private fields and public getters/setters to protect data.
 - **Inheritance** – A Java project demonstrating class inheritance, method overriding, and code reuse through superclass-subclass relationships.
 - **Abstraction** - Project to illustrate abstract classes and methods for hiding implementation details.
-- **Polymorphism** - Soon...
+- **Polymorphism** - Example demonstrating method overriding and dynamic method dispatch.
 
 ## 💡 Purpose
 
