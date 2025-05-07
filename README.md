@@ -8,7 +8,7 @@ This repository contains a collection of practice and learning projects related 
 - **Exception Handling** – A Java project using try-catch blocks to improve its functionality.
 - **Encapsulation** – A simple Java example showcasing the use of private fields and public getters/setters to protect data.
 - **Inheritance** – A Java project demonstrating class inheritance, method overriding, and code reuse through superclass-subclass relationships.
-- **Abstraction** - Soon...
+- **Abstraction** - Project to illustrate abstract classes and methods for hiding implementation details.
 - **Polymorphism** - Soon...
 
 ## 💡 Purpose
