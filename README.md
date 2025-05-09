@@ -21,6 +21,9 @@ This repository contains a collection of practice and learning projects related 
 #### Structural Patterns
 - **Adapter** – Coming soon.
 
+#### Behavioral Patterns
+- **Observer** – Coming soon...
+
 
 ## 💡 Purpose
 
