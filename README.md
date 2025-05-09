@@ -18,6 +18,10 @@ This repository contains a collection of practice and learning projects related 
 #### Creational Patterns
 - **Singleton** – Coming soon...
 
+#### Structural Patterns
+- **Adapter** – Coming soon.
+
+
 ## 💡 Purpose
 
 These projects were built to strengthen my programming skills and explore core software engineering concepts.
